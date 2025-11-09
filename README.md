@@ -13,11 +13,7 @@ Une application Android moderne qui démontre l'utilisation de Retrofit pour con
 - **Interface moderne** : Design Material avec cartes, boutons flottants et animations
 - **Architecture robuste** : Utilisation de Retrofit, RecyclerView et patterns Android modernes
 
-## 📱 Captures d'écran et Démonstration
 
-### 🎥 Vidéo de démonstration
-
-> **📹 [Regarder la démonstration complète](./public/t.mp4)**
 
 La vidéo de démonstration montre :
 - ✅ Basculement entre les formats JSON et XML
@@ -264,7 +260,18 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 - Square pour Retrofit
 - Google pour Material Design Components
 - La communauté open source pour les bibliothèques utilisées
+  
 
 ---
+
+## 📱 Captures d'écran et Démonstration
+
+### 🎥 Vidéo de démonstration
+
+https://github.com/user-attachments/assets/77e0e331-6836-49a3-99ab-918a7fe1d78d
+
+
+
+
 
 **Note** : Cette application est un projet de démonstration pour illustrer l'utilisation de Retrofit avec XML et JSON dans le développement Android moderne.
