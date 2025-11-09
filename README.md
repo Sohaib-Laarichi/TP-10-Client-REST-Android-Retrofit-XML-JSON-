@@ -2,9 +2,6 @@
 
 Une application Android moderne qui démontre l'utilisation de Retrofit pour consommer des services REST avec support des formats XML et JSON.
 
-## 🎬 Aperçu rapide
-
-> **🎥 [Voir la démonstration en action](./public/t.mp4)** - Découvrez toutes les fonctionnalités en quelques minutes
 
 ## 🚀 Fonctionnalités
 
